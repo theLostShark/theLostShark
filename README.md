@@ -15,4 +15,4 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![SQL](https://img.shields.io/badge/SQL-FFD700?style=flat-square)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theLostShark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theLostShark&layout=compact&text_color=D3D3D3&bg_color=0,000000,130F40)
