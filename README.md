@@ -20,4 +20,4 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theLostShark&layout=compact&theme=nightowl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theLostShark&layout=compact&theme=nightowl&hide_border=true)
