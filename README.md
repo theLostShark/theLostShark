@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 
-**My name is Carmen** and I'm a junior Web developer (as well as a graphic designer and Fine Arts graduated 😄)
+**My name is Carmen** and I'm a junior Web developer (as well as a graphic designer and Fine Arts graduated)
 
 - 💬 I'm Spanish, so you can contact me in Spanish as well as in English.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: when I'm not in front of my computer, I'm sculpting or painting as a freelance artist. You can check my artworks here: https://littlerebeldoll.com
+- ⚡ Fun fact: when I'm not in front of my computer, I'm sculpting or painting as a freelance artist.
 - 🌱 In my free time, books and video games are my top.
 </br>
 </br>
