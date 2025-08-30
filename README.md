@@ -3,7 +3,7 @@
 
 **My name is Carmen** and I'm a junior Web developer (as well as a graphic designer and Fine Arts graduated)
 
-- 💬 I'm Spanish, so you can contact me in Spanish as well as in English.
+- 💬 Speak Spanish and English, and some French.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: when I'm not in front of my computer, I'm sculpting or painting as a freelance artist.
 - 🌱 In my free time, books and video games are my top.
