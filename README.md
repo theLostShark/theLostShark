@@ -17,7 +17,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-FFD700?style=flat-square)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theLostShark&layout=compact&theme=nightowl&hide_border=true)
